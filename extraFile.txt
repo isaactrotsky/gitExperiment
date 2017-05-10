@@ -1,0 +1,7 @@
+This is a file added on 5/10/17 for practice purposes
+
+Point 1, it is fun to be learning git and practicing it.
+
+Point 2, Git is a powerful tool for programmers.
+
+Making modification to a stages commit in order to use 'git commit -a' command
