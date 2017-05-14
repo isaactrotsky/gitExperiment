@@ -4,4 +4,4 @@ Point 1, it is fun to be learning git and practicing it.
 
 Point 2, Git is a powerful tool for programmers.
 
-Making modification to a stages commit in order to use 'git commit -a' command
+Delted a line and added this one so see how this looks in Git Log
